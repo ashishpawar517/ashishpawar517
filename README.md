@@ -18,8 +18,6 @@
 </p>
 
 --- 
-<br/>
-
 ## About Me  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 ```javascript
@@ -29,16 +27,7 @@ class About extends Me
 { 
     public function getDailyKnowledge()
     {
-        return [
-            JS,
-            Java,
-            C#,
-            C++,
-            Python,
-            HTML,
-            CSS,
-            SQL,
-            ];
+        return ["JS",'Java','Python','C++','HTML','CSS','SQL'];
     }
 
     public function getFutureGoal()
