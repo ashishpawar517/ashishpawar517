@@ -56,3 +56,5 @@ class About extends Me
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to work on open source projects  <b>say hi, follow ,I'll be happy to contribute !</b></em>   
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pawarashish564" alt="pawarashish564" /> </p>
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=pawarashish564"></p>
