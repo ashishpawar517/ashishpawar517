@@ -58,4 +58,4 @@ class About extends Me
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pawarashish564" alt="pawarashish564" /> </p>
 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=pawarashish564&count_private=true&show_icons=true&theme=radical"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=pawarashish564&count_private=true&show_icons=true"></p>
