@@ -18,7 +18,7 @@ class About extends Me
 { 
     public function getDailyKnowledge()
     {
-        return ["JS",'Java','Python','C++','HTML','CSS','SQL'];
+        return ["JavaScript",'Java','Python','C++','SQL','Linux'];
     }
 
     public function getFutureGoal()
