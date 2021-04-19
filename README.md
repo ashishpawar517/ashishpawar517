@@ -1,61 +1,40 @@
- <h1>Hi there, I'm Aashish 👋 <a href="https://twitter.com/aashishpawar9"><img  alt="Aashish Pawar| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> <a href="https://www.linkedin.com/in/aashish-pawar/">
-  <img  alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://leetcode.com/pawarashish564/"><img alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-  </a>
-<!-- ![myreadme](https://visitor-badge.glitch.me/badge?page_id=pawarashish564.myreadme) -->
-
-
-<p align="center" >
-
-  
-</p>
+ <h1 align="center"> 👋 </h1>
  
-## About Me  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+ <p align="center">
+  <img src="https://github.com/pawarashish564/pawarashish564/blob/master/github_profile.jpg" alt="header"/>
+ </p>
 
-```javascript
-var name = " Aashish Pawar ";
-
-class About extends Me
-{ 
-    public function getDailyKnowledge()
-    {
-        return ["JavaScript",'Java','Python','C++','SQL','Linux'];
-    }
-
-    public function getFutureGoal()
-    {
-        return 'To contribute to open source.';
-    }
-}
-```
-
-## What I am currently learning ⚡ 
-- Competitive Programming * Progress 70% *
-- Machine Learning , NLP , Deep Learning * Progress 60% *
-- Cybersecurity and Ethical Hacking * Progress 92% *
-- Ethereum and Blockchain DAPPS * Progress 22% *
-
-<!-- ![Aashish Github Stats](https://github-readme-stats.vercel.app/api?username=pawarashish564&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-
----
-
-##  Languages and Tools 🛠️
-
+<p align="center"> (Open for Hiring)</p>
+<h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-
+  <samp>
+   I am an aspiring computer programmer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in programming and algorithms .
+   </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=pawarashish564" alt="https://github.com/pawarashish564" />
 </p>
 
----
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to work on open source projects  <b>say hi, follow ,I'll be happy to contribute !</b></em>   
+<hr>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pawarashish564" alt="pawarashish564" /> </p>
+<h2 align="center"> 🔭 Languages & Tools</h2>
+<p align="center">
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+ <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+<p align="center">
+  Linux, Docker, Git, Github, Github Actions, Machine Learning, Blockchain, Neural Nets, MongoDB, MySQL,GraphQL.
+</p>
 
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=pawarashish564&count_private=true&show_icons=true"></p>
+<hr>
+
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/aashish-pawar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pawarashish564@gmail.com?subject=Hello%20Aashish,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
