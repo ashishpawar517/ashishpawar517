@@ -1,7 +1,7 @@
  <h1 align="center"> 👋 </h1>
  
  <p align="center">
-  <img src="https://github.com/pawarashish564/pawarashish564/blob/master/github_profile.jpg" alt="header"/>
+  <img src="https://github.com/pawarashish564/pawarashish564/blob/master/profile_header.jpg" alt="header"/>
  </p>
 
 <p align="center"> (Open for Hiring)</p>
