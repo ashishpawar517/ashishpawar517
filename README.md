@@ -1,11 +1,11 @@
- <h1 align="center"> 👋 </h1>
+<!--  <h1 align="center"> 👋 </h1> -->
  
  <p align="center">
   <img src="https://github.com/pawarashish564/pawarashish564/blob/master/profile_header.jpg" alt="header"/>
  </p>
 
-<p align="center"> (Open for Hiring)</p>
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<!-- <p align="center"> (Open for Hiring)</p> -->
+<h2 align="center"> About </h2>
 <p align="center">
   <samp>
    I am an aspiring computer programmer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in programming and algorithms .
