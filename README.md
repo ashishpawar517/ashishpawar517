@@ -14,8 +14,8 @@
   <img src="https://komarev.com/ghpvc/?username=pawarashish564" alt="https://github.com/pawarashish564" />
 </p> -->
 
-<hr>
-
+<!-- <hr> -->
+<!-- 
 <h2 align="center"> 🔭 Languages & Tools</h2>
 <p align="center">
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
@@ -27,9 +27,9 @@
   Linux, Docker, Git, Github, Github Actions, Machine Learning, Blockchain, Neural Nets, MongoDB, MySQL,GraphQL.
 </p>
 
-<hr>
+<hr> -->
 
-<h2  align="center">📫 Reach me on</h2>
+<!-- <h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/aashish-pawar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:pawarashish564@gmail.com?subject=Hello%20Aashish,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,3 +38,4 @@
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+ -->
