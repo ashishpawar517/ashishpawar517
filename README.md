@@ -5,14 +5,14 @@
  </p> -->
 
 <!-- <p align="center"> (Open for Hiring)</p> -->
-<h2 align="center"> About </h2>
+<!-- <h2 align="center"> About </h2>
 <p align="center">
   <samp>
    I am an aspiring computer programmer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in programming and algorithms .
    </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=pawarashish564" alt="https://github.com/pawarashish564" />
-</p>
+</p> -->
 
 <hr>
 
