@@ -1,8 +1,8 @@
 <!--  <h1 align="center"> 👋 </h1> -->
  
- <p align="center">
+<!--  <p align="center">
   <img src="https://github.com/pawarashish564/pawarashish564/blob/master/profile_header.jpg" alt="header"/>
- </p>
+ </p> -->
 
 <!-- <p align="center"> (Open for Hiring)</p> -->
 <h2 align="center"> About </h2>
