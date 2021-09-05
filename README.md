@@ -1,3 +1,26 @@
+<h1 align="center">Hi 👋, I'm Ashish</h1>
+
+<!-- - 📫 How to reach me **ashish@gmail.com** -->
+
+<br>
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=pawarashish564&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="pawarashish564" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawarashish564&theme=tokyonight" alt="pawarashish564" /> 
+</p>
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarashish564&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="pawarashish564" />
+</p>
+<br>
+ 
+
+
+
+
 <!--  <h1 align="center"> 👋 </h1> -->
  
 <!--  <p align="center">
