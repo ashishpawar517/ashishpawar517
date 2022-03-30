@@ -1,23 +1,14 @@
 <!-- <h1 align="center">Hi 👋, I'm Ashish</h1> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishpawar517&show_icons=true&locale=en&layout=compact" alt="ashishpawar517" /></p> -->
+
 
 <!-- - 📫 How to reach me **ashish@gmail.com** -->
 [![Ashish's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashishpawar517&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
-<!-- 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=pawarashish564&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="pawarashish564" />
-</p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawarashish564&theme=tokyonight" alt="pawarashish564" /> 
+   <img src="https://github-readme-stats.vercel.app/api?username=ashishpawar517&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="ashishpawar517" />
 </p>
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarashish564&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="pawarashish564" />
-</p>
-<br>
-  -->
-
 
 
 
