@@ -1,14 +1,62 @@
 <!-- <h1 align="center">Hi 👋, I'm Ashish</h1> -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishpawar517&show_icons=true&locale=en&layout=compact" alt="ashishpawar517" /></p> -->
 
+[![](https://github.com/ashishpawar517/ashishpawar517/blob/master/name_tag_anim.gif)](https://www.adamalston.com/)
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+
+
+<a><h3>Stats</h3>
+<div>
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=ashishpawar517&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpawar517&theme=onedark&hide_border=true"/>
+    </a>
+    <h3>Trophies</h3>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ashishpawar517&row=1&theme=onedark&no-frame=true"/>
+    </a>    
+    </a>
+    
+</div>
+
+
+
+<!-- <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ashishpawar517&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
+   
+<!--    
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpawar517&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a> --> 
+
+
+
+
 
 <!-- - 📫 How to reach me **ashish@gmail.com** -->
-[![Ashish's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashishpawar517&theme=react-dark)](https://github.com/ashishpawar517/github-readme-activity-graph)
+<!-- [![Ashish's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashishpawar517&theme=react-dark)](https://github.com/ashishpawar517/github-readme-activity-graph) -->
 <br>
 
-<p align="center">
+<!-- <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=ashishpawar517&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="ashishpawar517" />
-</p>
+</p> -->
 
 
 
