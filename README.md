@@ -3,7 +3,12 @@
 
 [![](https://github.com/ashishpawar517/ashishpawar517/blob/d2ccc08ef4fbfe3fd91ee5042b40219c75a9780a/gif.gif)]()
 
-### Languages
+
+| Languages | Technologies |
+| --- | --- |
+| <img src="https://img.shields.io/badge/-Python-000?&logo=Python"> &nbsp; <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript"> &nbsp; <img src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396"> &nbsp; <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript"> &nbsp; <img src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C"> &nbsp; <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL"> &nbsp; | <img src="https://img.shields.io/badge/-React-000?&logo=React"> &nbsp;<img src="https://img.shields.io/badge/-Spring-000?&logo=Spring"> &nbsp;<img src="https://img.shields.io/badge/-Docker-000?&logo=Docker"> &nbsp;<img src="https://img.shields.io/badge/-Linux-000?&logo=Linux"> &nbsp;<img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js"> &nbsp;<img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js"> &nbsp;|
+
+<!-- ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -20,7 +25,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring) -->
 
 
 <a><h3>Stats</h3>
