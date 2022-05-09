@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Ashish</h1> -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishpawar517&show_icons=true&locale=en&layout=compact" alt="ashishpawar517" /></p> -->
 
-[![](https://github.com/ashishpawar517/ashishpawar517/blob/master/name_tag_anim.gif)](https://www.adamalston.com/)
+[![](https://github.com/ashishpawar517/ashishpawar517/blob/d2ccc08ef4fbfe3fd91ee5042b40219c75a9780a/gif.gif)]()
 
 ### Languages
 
