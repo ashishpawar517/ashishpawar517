@@ -6,26 +6,9 @@
 
 | Languages | Technologies |
 | --- | --- |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=appveyor&logo=java&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/Python-FFD43B?style=appveyor&logo=python&logoColor=blue"> &nbsp;<img src="https://img.shields.io/badge/JavaScript-323330?style=appveyor&logo=javascript&logoColor=F7DF1E"> &nbsp;<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=appveyor&logo=c%2B%2B&logoColor=white"> &nbsp;|<img src="https://img.shields.io/badge/React-20232A?style=appveyor&logo=react&logoColor=61DAFB"> &nbsp;<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=appveyor&logo=mui&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=appveyor&logo=spring-boot"> &nbsp;<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=appveyor&logo=redis&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/PostgreSQL-316192?style=appveyor&logo=postgresql&logoColor=white">|
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=appveyor&logo=java&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/Python-FFD43B?style=appveyor&logo=python&logoColor=blue"> &nbsp;<img src="https://img.shields.io/badge/JavaScript-323330?style=appveyor&logo=javascript&logoColor=F7DF1E"> &nbsp;<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=appveyor&logo=c%2B%2B&logoColor=white"> &nbsp;|<img src="https://img.shields.io/badge/React-20232A?style=appveyor&logo=react&logoColor=61DAFB"> &nbsp;<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=appveyor&logo=mui&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=appveyor&logo=spring-boot"> &nbsp;<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=appveyor&logo=redis&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/PostgreSQL-316192?style=appveyor&logo=postgresql&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=appveyor&logo=redis&logoColor=white"> |
 
-<!-- ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-### Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring) -->
 
 
 <a><h3>Stats</h3>
