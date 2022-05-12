@@ -18,7 +18,6 @@
 	</a>
 	<br />
 	<br />
-<!-- 	<img height="165px" src="https://github-readme-stats.vercel.app/api?username=ashishpawar517&count_private=true&border_color=0d1117&title_color=58a6ff&text_color=c9d1d9&show_icons=true&theme=github_dark" alt="d33kshant's github stats" /> -->
-   
-   <img width="1865px" src="https://gcdnb.pbrd.co/images/BgGkR3oFoeo9.png" />
+
+  <img width="1865px" src="https://svgsilh.com/svg/484402.svg" />
 </div>
