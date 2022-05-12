@@ -1,55 +1,24 @@
-<!-- <h1 align="center">Hi 👋, I'm Ashish</h1> -->
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishpawar517&show_icons=true&locale=en&layout=compact" alt="ashishpawar517" /></p> -->
-
-
-<!-- - 📫 How to reach me **ashish@gmail.com** -->
-[![Ashish's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashishpawar517&theme=react-dark)](https://github.com/ashishpawar517/github-readme-activity-graph)
-<br>
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=ashishpawar517&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="ashishpawar517" />
-</p>
-
-
-
-<!--  <h1 align="center"> 👋 </h1> -->
- 
-<!--  <p align="center">
-  <img src="https://github.com/pawarashish564/pawarashish564/blob/master/profile_header.jpg" alt="header"/>
- </p> -->
-
-<!-- <p align="center"> (Open for Hiring)</p> -->
-<!-- <h2 align="center"> About </h2>
-<p align="center">
-  <samp>
-   I am an aspiring computer programmer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in programming and algorithms .
-   </samp>
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=pawarashish564" alt="https://github.com/pawarashish564" />
-</p> -->
-
-<!-- <hr> -->
-<!-- 
-<h2 align="center"> 🔭 Languages & Tools</h2>
-<p align="center">
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
- <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
- <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-<p align="center">
-  Linux, Docker, Git, Github, Github Actions, Machine Learning, Blockchain, Neural Nets, MongoDB, MySQL,GraphQL.
-</p>
-
-<hr> -->
-
-<!-- <h2  align="center">📫 Reach me on</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/aashish-pawar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:pawarashish564@gmail.com?subject=Hello%20Aashish,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<hr>
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
- -->
+<div align="center">
+	<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
+	<h3>Aashish Pawar</h3>
+	<code>Java • React • Full Stack Developer</code> <br /><br />
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed 
+	<br />
+	 do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+	<br />
+	<br />
+	<a href="https://ashishpawar517.github.io/portfolio/">
+		<img height="20" src="https://img.shields.io/badge/Portfolio-8957e5?style=flat&logo=awesome-lists&logoColor=white" alt="Youtube Badge"/>
+	</a>
+	<a href="https://ashishpawar517.github.io/portfolio/">
+		<img  height="20" src="https://img.shields.io/badge/LinkedIn-1f6feb?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+	</a>
+	<a href="https://ashishpawar517.github.io/portfolio/">
+		<img height="20" src="https://img.shields.io/badge/Contact-238636?style=flat&logo=gmail&logoColor=white" alt="Twitter Badge"/>
+	</a>
+	<br />
+	<br />
+<!-- 	<img height="165px" src="https://github-readme-stats.vercel.app/api?username=ashishpawar517&count_private=true&border_color=0d1117&title_color=58a6ff&text_color=c9d1d9&show_icons=true&theme=github_dark" alt="d33kshant's github stats" /> -->
+   
+   <img width="1865px" src="https://gcdnb.pbrd.co/images/BgGkR3oFoeo9.png" />
+</div>
