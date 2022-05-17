@@ -13,11 +13,9 @@
 	<img height ="40px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 	<br>
 	<br>
-<img src="https://gcdnb.pbrd.co/images/PkvhrDxPnwNh.png?o=1"/>
-<!--   <img width="400px" src="https://ngsup.com/wp-content/uploads/wifi.gif" />   -->
-<!-- 	<br/> -->
+
+  <img width="400px" src="https://ngsup.com/wp-content/uploads/wifi.gif" />  
+	<br/>
 <!--   <img width = "600px" src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif"> -->
 <!-- 	https://www.google.com/search?q=svg+animations&tbm=isch&ictx=1&tbs=rimg:CTJoo4xZ9fdRIggyaKOMWfX3USoSCTJoo4xZ9fdREcufWdd_1QLpp&hl=en-US&sa=X&ved=2ahUKEwjdvoqM0Nr3AhVCRmwGHWOxCpgQiRx6BAgAEAQ&biw=1351&bih=636 -->
-	
-	
 </div>
