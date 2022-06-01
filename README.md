@@ -1,3 +1,3 @@
 <div align="center">
- <img src="Feature-list-[remix] (1).gif">
+ <img src="readme_img.gif">
 </div>
