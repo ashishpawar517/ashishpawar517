@@ -5,7 +5,7 @@
 </div>
 
 
-I'm Aashish, an aspiring full-stack developer. As a dedicated learner, my aim is to play a role in creating technology that improves people's lives. I am an enthusiastic individual seeking a demanding role in the technical field that allows me to apply my problem-solving abilities, software engineering techniques, and excellent communication skills.
+I'm Aashish, an aspiring full-stack developer. As a dedicated learner, my aim is to play a role in creating technology that improves people's lives. I am an enthusiastic individual seeking a demanding role in the technical field that allows me to apply my problem-solving abilities, software engineering techniques, and excellent communication skills. I enjoy connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries.
 
 <p align=”center”>
   Want to know more about me? Connect with me on: 
@@ -67,18 +67,3 @@ I'm Aashish, an aspiring full-stack developer. As a dedicated learner, my aim is
 ![](https://img.shields.io/badge/Code-Postman-informational?style=flat&logo=postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Jira-informational?style=flat&logo=jira&logoColor=white&color=4AB197)
 </details>
-
-<!--
-**pdabre12/pdabre12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
