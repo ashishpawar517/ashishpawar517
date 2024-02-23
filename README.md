@@ -11,7 +11,7 @@ I'm Aashish, an aspiring full-stack developer. As a dedicated learner, my aim is
 </p>
 
 ### Work Experience
-- Flexmoney Technologies [Software Developer Engineer]
+- Flexmoney Technologies [Software Development Engineer]
 
 ### 📝 Published Research Papers
 - <a href="https://ieeexplore.ieee.org/document/9702378">BlockAudit 2.0: PoA blockchain based solution for secure Audit logs
