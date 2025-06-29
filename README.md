@@ -11,7 +11,7 @@ I'm Aashish, an aspiring full-stack developer. As a dedicated learner, my aim is
 </p>
 
 ### Work Experience
-- Frasers Medical [Full stack Engineer]
+- Frasers Medical [Junior Full stack Engineer]
 - Flexmoney Technologies [Software Development Engineer]
 
 ### 📝 Published Research Papers
