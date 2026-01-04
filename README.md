@@ -11,53 +11,32 @@
 </div>
 
 
-<p> 👋 Hi, I'm Aashish </p>
-
+<h1 style="font-size: 48px;"> 👋 Hi, I'm Aashish </h1>
 <b>Vim Wizard | Full-Stack Developer </b>
+
+<div align="center" style="width: 640px; margin: 20px auto;">
+
+<!-- Row 1: 8 badges (looks perfect as you said) -->
+<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black" alt="Java" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+
 </div>
 
-### 💼 Skills
+<div align="center" style="width: 640px; margin: 10px auto;">
 
-![](https://img.shields.io/badge/Code-Data%20Structures-informational?style=flat&logo=datastructures&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Design%20Patterns-informational?style=flat&logo=designpatterns&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Distributed%20Systems-informational?style=flat&logo=distributedsystems&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-OOPS-informational?style=flat&logo=oops&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Computer%20Networking-informational?style=flat&logo=computernetworking&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Programming%20Language-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Programming%20Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Programming%20Language-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-DBMS-informational?style=flat&logo=dbms&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Bash-Scripting-informational?style=flat&logo=bash&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Spring%20Boot-informational?style=flat&logo=springboot&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=aws&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Github-informational?style=flat&logo=github&logoColor=white&color=blue)
+<!-- Row 2: Cloud & additional skills -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/GitHub-Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 
-
-
-<details>
-<summary>More Skills</summary>
-  
-![](https://img.shields.io/badge/Programming%20Language-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Programming%20Language-C++-informational?style=flat&logo=c++&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Programming%20Language-C-informational?style=flat&logo=c&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=redis&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Programming%20Language-HTML-informational?style=flat&logo=html&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-JSON-informational?style=flat&logo=json&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Apache%20Spark-informational?style=flat&logo=apachespark&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-MacOS-informational?style=flat&logo=macos&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Postman-informational?style=flat&logo=postman&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Jira-informational?style=flat&logo=jira&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
-
-
+</div>
 
