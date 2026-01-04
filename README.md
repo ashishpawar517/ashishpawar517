@@ -13,7 +13,10 @@
 
 <h1 style="font-size: 48px;"> 👋 Hi, I'm Aashish </h1>
 <b>Vim Wizard | Full-Stack Developer </b>
+
 <br/>
+<br/> 
+
 <div align="center" style="width: 640px; margin: 20px auto;">
 
 <!-- Row 1: 8 badges (looks perfect as you said) -->
