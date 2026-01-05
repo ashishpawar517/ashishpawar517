@@ -12,7 +12,7 @@
 
 
 <h1 style="font-size: 48px;"> 👋 Hi, I'm Aashish </h1>
-<b>Vim Wizard | Full-Stack Developer </b>
+<!-- <b>Vim Wizard | Full-Stack Developer </b> -->
 
 <br/>
 <br/> 
